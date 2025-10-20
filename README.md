@@ -4,7 +4,7 @@ My work integrates field ecology, spatial modeling, and biodiversity data analys
 
 You can find the codes and data for my peer-reviewed publications, and learn more about my research here:
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0444-8876)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0444--8876-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0444-8876)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 [![Email](https://img.shields.io/badge/Email-your_email@domain.com-blue?style=flat&logo=gmail)](mailto:kelchoki7@gmail.com)
 
