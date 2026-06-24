@@ -1,5 +1,5 @@
 ## Hi :) 
-I’m Karma Choki, a Research Assistant focused on carnivore ecology and threatened species conservation across Asia and North America. 
+I’m Karma Choki, a Research Assistant focused on rare and threatened species conservation across Asia and North America. 
 My work integrates field ecology, spatial modeling, and biodiversity data analysis to understand species distribution, population dynamics, and conservation strategies.
 
 You can find the codes and data for my peer-reviewed publications in my repositories, and learn more about my research here:
