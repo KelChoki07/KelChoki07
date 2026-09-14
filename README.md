@@ -1,6 +1,6 @@
 ## Hi :) 
 I’m Karma Choki, a conservationist focused on rare and threatened species conservation across Asia and North America. 
-My work integrates field ecology, innovative technologies and interdisciplinary research (including ecological and geospatial modelling) to understand species- habitat relations, population dynamics, and conservation strategies.
+My work integrates field ecology, innovative technologies and interdisciplinary research (including ecological and geospatial modelling) to understand species-habitat relations, population dynamics, and conservation strategies.
 
 You can find the codes and data for my peer-reviewed publications in my repositories, and learn more about my research here:
 
